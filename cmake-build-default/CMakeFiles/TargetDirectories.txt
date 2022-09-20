@@ -1,0 +1,3 @@
+/home/walker/Projects/cpp_projects/rayTracing/cmake-build-default/CMakeFiles/simple_example.dir
+/home/walker/Projects/cpp_projects/rayTracing/cmake-build-default/CMakeFiles/edit_cache.dir
+/home/walker/Projects/cpp_projects/rayTracing/cmake-build-default/CMakeFiles/rebuild_cache.dir
